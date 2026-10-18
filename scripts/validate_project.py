@@ -47,7 +47,7 @@ def main() -> int:
                 )
                 words = len(full_text.split())
                 images = len(doc.inline_shapes)
-                print(f"{name}: {words} paragraph words, {tables} tables, {images} images, {path.stat().st_size:,} bytes")
+                print(f"{name}: {words} document words (paragraphs + tables), {tables} tables, {images} images, {path.stat().st_size:,} bytes")
                 for required in ("Executive Summary", "Contents", "References"):
                     if required not in body:
                         errors.append(f"{name}: missing {required}")
