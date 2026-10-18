@@ -1,0 +1,7 @@
+case_id,pay_component,illustrative_gross_inr,blocked_control_record,duplicate_recurring_item,scenario
+PAY001,Regular salary,85000,0,0,Illustrative clean run
+PAY002,Regular salary,72000,0,0,Missing bank master-data record
+PAY003,Regular salary,96000,1,0,Payroll area period not released
+PAY004,Regular salary,68000,0,1,Duplicate recurring allowance
+PAY005,Regular salary,110000,0,0,Retroactive job change requires recalculation
+PAY006,Regular salary,54000,0,0,Incorrect tax declaration / withholding setup

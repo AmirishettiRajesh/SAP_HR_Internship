@@ -1,0 +1,121 @@
+employee_id,department,job_title,location,gender,age,hire_date,termination_date,employment_status,annual_salary_inr,recruitment_source,absence_days_fy2025,training_hours_fy2025,performance_rating_fy2025,as_of_date
+EMP0001,Finance,Finance Manager,Bengaluru,Man,54,2022-09-11,,Active,980000,Employee referral,2,16,3.8,2026-09-30
+EMP0002,Finance,Finance Manager,Bengaluru,Woman,30,2025-01-19,,Active,610000,Internal move,4,14,3.8,2026-09-30
+EMP0003,Finance,Finance Manager,Chennai,Man,28,2025-02-20,,Active,420000,Employee referral,2,44,2.7,2026-09-30
+EMP0004,People,Recruiter,Gurugram,Woman,24,2026-01-06,,Active,2240000,Employee referral,6,6,3.7,2026-09-30
+EMP0005,People,Recruiter,Gurugram,Man,52,2024-02-26,,Active,1520000,Internal move,0,47,4.1,2026-09-30
+EMP0006,Sales,Sales Associate,Gurugram,Woman,23,2025-06-01,,Active,720000,Campus,1,12,2.3,2026-09-30
+EMP0007,People,HR Business Partner,Bengaluru,Woman,29,2023-03-13,,Active,2010000,Career site,4,12,3.6,2026-09-30
+EMP0008,People,Recruiter,Gurugram,Woman,35,2024-11-14,,Active,1440000,Career site,6,38,3.4,2026-09-30
+EMP0009,Finance,Payroll Analyst,Bengaluru,Woman,42,2025-03-09,,Active,1010000,Career site,0,36,3.7,2026-09-30
+EMP0010,Customer Support,Service Lead,Gurugram,Undisclosed,24,2020-07-02,,Active,1430000,Internal move,3,24,3.6,2026-09-30
+EMP0011,Finance,Payroll Analyst,Chennai,Woman,30,2022-11-25,2025-09-04,Terminated,930000,Career site,0,39,4.6,2026-09-30
+EMP0012,Operations,Process Specialist,Gurugram,Woman,39,2019-07-18,,Active,1060000,Internal move,1,24,3.1,2026-09-30
+EMP0013,Operations,Operations Analyst,Gurugram,Woman,58,2025-06-22,,Active,2160000,Internal move,1,49,3.0,2026-09-30
+EMP0014,Customer Support,Quality Analyst,Hyderabad,Man,51,2024-11-16,,Active,950000,Career site,1,41,4.1,2026-09-30
+EMP0015,Technology,Data Analyst,Pune,Woman,38,2026-03-19,,Active,1200000,Agency,0,35,3.7,2026-09-30
+EMP0016,Finance,Payroll Analyst,Gurugram,Man,25,2020-08-22,,Active,2230000,Employee referral,0,48,3.8,2026-09-30
+EMP0017,Customer Support,Service Lead,Gurugram,Woman,28,2022-01-20,,Active,1430000,Agency,2,47,4.0,2026-09-30
+EMP0018,Finance,Finance Manager,Hyderabad,Man,33,2024-12-19,,Active,1970000,Career site,3,48,3.9,2026-09-30
+EMP0019,Sales,Sales Manager,Hyderabad,Woman,45,2020-03-04,,Active,700000,Campus,9,19,4.2,2026-09-30
+EMP0020,People,Recruiter,Bengaluru,Woman,50,2024-09-11,,Active,1660000,Internal move,3,12,4.1,2026-09-30
+EMP0021,Finance,Payroll Analyst,Hyderabad,Woman,25,2021-10-22,2022-11-17,Terminated,430000,Employee referral,4,54,3.2,2026-09-30
+EMP0022,Customer Support,Support Associate,Hyderabad,Man,50,2019-06-14,2020-07-29,Terminated,1010000,Agency,0,33,4.9,2026-09-30
+EMP0023,Finance,Finance Manager,Chennai,Woman,23,2019-02-20,,Active,2100000,Employee referral,0,34,3.4,2026-09-30
+EMP0024,Finance,Payroll Analyst,Chennai,Woman,40,2023-07-18,,Active,1120000,Agency,0,44,4.2,2026-09-30
+EMP0025,Technology,IT Lead,Bengaluru,Woman,52,2020-01-18,,Active,2270000,Campus,6,34,4.3,2026-09-30
+EMP0026,Technology,Software Engineer,Chennai,Man,56,2020-08-12,,Active,1880000,Career site,2,13,2.4,2026-09-30
+EMP0027,Sales,Account Executive,Pune,Man,52,2025-12-28,,Active,790000,Agency,2,50,2.8,2026-09-30
+EMP0028,Sales,Sales Associate,Chennai,Woman,24,2022-08-31,,Active,1400000,Career site,1,11,2.9,2026-09-30
+EMP0029,Operations,Team Lead,Bengaluru,Woman,37,2024-12-02,2025-10-11,Terminated,2350000,Employee referral,4,23,3.6,2026-09-30
+EMP0030,People,HR Analyst,Chennai,Woman,42,2021-01-28,,Active,480000,Employee referral,3,0,2.5,2026-09-30
+EMP0031,People,HR Business Partner,Pune,Woman,42,2019-10-24,2021-07-25,Terminated,1040000,Internal move,4,19,4.4,2026-09-30
+EMP0032,Finance,Finance Manager,Chennai,Man,57,2024-11-12,,Active,1900000,Agency,1,32,3.0,2026-09-30
+EMP0033,Operations,Operations Analyst,Chennai,Man,58,2026-04-14,,Active,1980000,Internal move,0,10,2.2,2026-09-30
+EMP0034,People,Recruiter,Bengaluru,Woman,23,2021-09-26,,Active,1750000,Employee referral,2,22,2.6,2026-09-30
+EMP0035,Sales,Sales Associate,Bengaluru,Man,27,2020-09-17,,Active,980000,Career site,6,55,2.8,2026-09-30
+EMP0036,Technology,Software Engineer,Hyderabad,Woman,28,2024-03-14,,Active,1860000,Agency,3,32,4.1,2026-09-30
+EMP0037,Technology,Data Analyst,Hyderabad,Man,51,2026-06-01,,Active,1640000,Internal move,1,49,2.5,2026-09-30
+EMP0038,Technology,Software Engineer,Hyderabad,Man,29,2025-10-04,,Active,990000,Employee referral,0,46,3.4,2026-09-30
+EMP0039,Technology,Data Analyst,Chennai,Woman,34,2024-02-08,,Active,610000,Internal move,6,48,3.3,2026-09-30
+EMP0040,Finance,Finance Manager,Chennai,Woman,43,2019-02-21,,Active,2150000,Employee referral,10,41,4.7,2026-09-30
+EMP0041,People,Recruiter,Gurugram,Undisclosed,30,2019-12-04,,Active,950000,Agency,0,24,4.1,2026-09-30
+EMP0042,Finance,Payroll Analyst,Hyderabad,Man,59,2025-04-09,,Active,1070000,Agency,3,22,4.1,2026-09-30
+EMP0043,Finance,Payroll Analyst,Bengaluru,Woman,35,2023-01-26,,Active,640000,Career site,4,9,2.9,2026-09-30
+EMP0044,People,Recruiter,Gurugram,Man,22,2023-01-15,,Active,1930000,Campus,2,0,4.4,2026-09-30
+EMP0045,Customer Support,Support Associate,Pune,Undisclosed,36,2024-10-15,,Active,2390000,Agency,0,28,3.8,2026-09-30
+EMP0046,Sales,Sales Manager,Pune,Woman,59,2026-09-26,,Active,1970000,Career site,0,52,4.0,2026-09-30
+EMP0047,Technology,IT Lead,Gurugram,Woman,57,2020-04-13,2020-11-15,Terminated,1480000,Agency,1,56,4.4,2026-09-30
+EMP0048,Customer Support,Service Lead,Gurugram,Woman,46,2021-01-01,2022-02-11,Terminated,1020000,Employee referral,1,19,4.9,2026-09-30
+EMP0049,People,HR Business Partner,Pune,Man,40,2020-12-28,,Active,1820000,Employee referral,2,4,2.2,2026-09-30
+EMP0050,Operations,Process Specialist,Gurugram,Man,40,2026-06-03,,Active,2290000,Agency,3,3,2.4,2026-09-30
+EMP0051,Finance,Accountant,Gurugram,Woman,30,2023-11-09,,Active,1960000,Employee referral,7,47,2.3,2026-09-30
+EMP0052,People,Recruiter,Chennai,Man,42,2024-04-24,,Active,2000000,Internal move,5,14,2.9,2026-09-30
+EMP0053,People,HR Analyst,Chennai,Woman,30,2025-10-19,,Active,1450000,Agency,3,42,3.7,2026-09-30
+EMP0054,Customer Support,Support Associate,Pune,Man,23,2022-08-01,,Active,640000,Campus,1,9,2.6,2026-09-30
+EMP0055,Customer Support,Support Associate,Chennai,Woman,45,2021-10-24,,Active,650000,Agency,2,34,2.7,2026-09-30
+EMP0056,Operations,Process Specialist,Bengaluru,Man,29,2024-05-05,2025-01-13,Terminated,1200000,Career site,2,0,3.9,2026-09-30
+EMP0057,Finance,Finance Manager,Hyderabad,Woman,37,2020-04-28,2024-02-18,Terminated,1050000,Agency,11,55,2.2,2026-09-30
+EMP0058,Finance,Payroll Analyst,Bengaluru,Woman,56,2019-12-07,,Active,2170000,Internal move,3,52,3.3,2026-09-30
+EMP0059,Operations,Process Specialist,Hyderabad,Man,55,2024-06-03,,Active,1840000,Campus,1,3,3.5,2026-09-30
+EMP0060,Sales,Account Executive,Pune,Man,47,2021-02-18,,Active,1750000,Agency,0,31,4.7,2026-09-30
+EMP0061,Operations,Team Lead,Chennai,Woman,56,2021-07-11,,Active,770000,Career site,1,46,2.4,2026-09-30
+EMP0062,Sales,Sales Associate,Gurugram,Woman,50,2022-10-19,2025-06-01,Terminated,2050000,Career site,0,39,2.3,2026-09-30
+EMP0063,People,Recruiter,Gurugram,Man,48,2020-05-17,,Active,1570000,Employee referral,1,53,3.7,2026-09-30
+EMP0064,People,Recruiter,Hyderabad,Woman,56,2022-01-20,,Active,1100000,Internal move,8,36,3.3,2026-09-30
+EMP0065,Customer Support,Service Lead,Chennai,Woman,42,2024-06-27,,Active,690000,Campus,1,42,2.9,2026-09-30
+EMP0066,Sales,Sales Manager,Bengaluru,Woman,40,2020-08-12,2022-10-18,Terminated,480000,Employee referral,0,48,3.6,2026-09-30
+EMP0067,Customer Support,Support Associate,Chennai,Woman,22,2024-01-04,2025-09-25,Terminated,1140000,Agency,2,44,3.4,2026-09-30
+EMP0068,Technology,Software Engineer,Hyderabad,Woman,45,2022-11-15,,Active,1750000,Internal move,1,10,4.4,2026-09-30
+EMP0069,People,Recruiter,Bengaluru,Woman,56,2023-02-06,,Active,1400000,Career site,0,20,3.3,2026-09-30
+EMP0070,Customer Support,Support Associate,Gurugram,Man,24,2019-03-07,,Active,1110000,Employee referral,1,26,3.5,2026-09-30
+EMP0071,Operations,Operations Analyst,Gurugram,Man,46,2026-05-26,,Active,2170000,Internal move,6,42,2.7,2026-09-30
+EMP0072,Sales,Sales Associate,Pune,Man,54,2026-01-19,,Active,580000,Campus,4,25,3.3,2026-09-30
+EMP0073,Operations,Operations Analyst,Hyderabad,Man,24,2021-11-23,,Active,690000,Employee referral,0,52,2.2,2026-09-30
+EMP0074,Finance,Finance Manager,Bengaluru,Man,56,2021-01-08,,Active,1790000,Agency,0,33,3.6,2026-09-30
+EMP0075,Sales,Sales Manager,Gurugram,Woman,30,2024-06-13,2025-08-06,Terminated,1080000,Career site,7,50,2.4,2026-09-30
+EMP0076,Technology,Software Engineer,Bengaluru,Woman,53,2019-10-15,,Active,1120000,Employee referral,0,29,4.4,2026-09-30
+EMP0077,Finance,Accountant,Gurugram,Man,57,2019-08-01,,Active,930000,Employee referral,1,49,2.8,2026-09-30
+EMP0078,Finance,Finance Manager,Gurugram,Woman,35,2022-08-24,,Active,1000000,Career site,2,23,2.3,2026-09-30
+EMP0079,Sales,Sales Manager,Bengaluru,Woman,46,2020-11-26,2024-12-26,Terminated,1790000,Campus,3,23,4.6,2026-09-30
+EMP0080,Finance,Finance Manager,Pune,Man,24,2020-10-09,,Active,1210000,Internal move,0,18,2.4,2026-09-30
+EMP0081,Sales,Sales Manager,Bengaluru,Man,58,2025-09-07,,Active,1980000,Agency,4,45,2.8,2026-09-30
+EMP0082,Customer Support,Quality Analyst,Hyderabad,Woman,28,2022-11-10,,Active,1540000,Employee referral,2,30,4.5,2026-09-30
+EMP0083,People,HR Business Partner,Hyderabad,Man,57,2022-06-01,,Active,2290000,Employee referral,3,52,4.8,2026-09-30
+EMP0084,Customer Support,Quality Analyst,Hyderabad,Man,52,2021-01-07,,Active,1740000,Campus,3,6,4.8,2026-09-30
+EMP0085,People,HR Business Partner,Chennai,Woman,26,2024-01-18,,Active,1470000,Internal move,5,41,4.4,2026-09-30
+EMP0086,Sales,Account Executive,Gurugram,Man,39,2020-03-01,2023-01-18,Terminated,1980000,Career site,1,16,4.7,2026-09-30
+EMP0087,Sales,Account Executive,Hyderabad,Woman,58,2020-10-19,,Active,1800000,Employee referral,2,37,2.5,2026-09-30
+EMP0088,Finance,Payroll Analyst,Gurugram,Man,45,2026-09-30,,Active,550000,Career site,3,18,4.1,2026-09-30
+EMP0089,Technology,Data Analyst,Chennai,Man,43,2023-03-18,,Active,1280000,Internal move,3,36,3.5,2026-09-30
+EMP0090,Sales,Sales Associate,Gurugram,Man,32,2024-06-07,,Active,420000,Employee referral,1,38,4.2,2026-09-30
+EMP0091,Operations,Operations Analyst,Chennai,Woman,47,2023-11-23,,Active,2130000,Internal move,0,55,3.1,2026-09-30
+EMP0092,Finance,Payroll Analyst,Bengaluru,Man,43,2022-02-14,,Active,1680000,Employee referral,1,52,2.7,2026-09-30
+EMP0093,Technology,Software Engineer,Bengaluru,Man,50,2022-11-02,,Active,2110000,Career site,7,6,4.7,2026-09-30
+EMP0094,Finance,Payroll Analyst,Gurugram,Woman,46,2023-12-15,,Active,1880000,Career site,7,10,2.5,2026-09-30
+EMP0095,Sales,Account Executive,Gurugram,Woman,33,2024-04-02,2026-09-10,Terminated,1330000,Agency,3,19,4.5,2026-09-30
+EMP0096,Sales,Sales Associate,Hyderabad,Woman,37,2024-09-21,,Active,2370000,Employee referral,3,27,4.6,2026-09-30
+EMP0097,Technology,IT Lead,Hyderabad,Man,30,2026-03-31,,Active,2220000,Campus,2,45,2.5,2026-09-30
+EMP0098,Technology,Data Analyst,Bengaluru,Woman,26,2020-07-02,,Active,600000,Agency,1,39,3.5,2026-09-30
+EMP0099,Technology,IT Lead,Hyderabad,Woman,34,2020-07-15,,Active,2280000,Employee referral,0,1,4.2,2026-09-30
+EMP0100,Operations,Team Lead,Pune,Man,42,2023-08-17,,Active,660000,Employee referral,2,16,2.9,2026-09-30
+EMP0101,Operations,Process Specialist,Pune,Woman,35,2019-01-06,2020-12-25,Terminated,950000,Internal move,4,15,3.5,2026-09-30
+EMP0102,Sales,Sales Associate,Gurugram,Woman,34,2020-09-26,,Active,1120000,Career site,2,55,3.4,2026-09-30
+EMP0103,Customer Support,Support Associate,Bengaluru,Woman,33,2022-02-04,,Active,2000000,Employee referral,0,55,3.0,2026-09-30
+EMP0104,Finance,Payroll Analyst,Gurugram,Man,22,2024-06-13,,Active,1280000,Employee referral,1,4,3.7,2026-09-30
+EMP0105,Customer Support,Quality Analyst,Bengaluru,Woman,54,2019-05-06,,Active,1580000,Employee referral,1,9,4.2,2026-09-30
+EMP0106,Finance,Finance Manager,Pune,Woman,53,2025-01-21,2026-08-16,Terminated,1620000,Agency,5,9,4.1,2026-09-30
+EMP0107,Finance,Finance Manager,Hyderabad,Man,28,2025-09-30,,Active,700000,Employee referral,2,41,3.0,2026-09-30
+EMP0108,Operations,Team Lead,Chennai,Man,59,2022-10-13,,Active,960000,Agency,2,6,3.6,2026-09-30
+EMP0109,Technology,Data Analyst,Pune,Man,39,2023-01-03,,Active,2020000,Campus,3,7,3.8,2026-09-30
+EMP0110,People,HR Analyst,Hyderabad,Man,22,2026-01-22,,Active,2050000,Internal move,2,3,4.4,2026-09-30
+EMP0111,People,HR Business Partner,Hyderabad,Woman,50,2025-11-21,2026-07-18,Terminated,2020000,Campus,9,8,3.7,2026-09-30
+EMP0112,Sales,Sales Associate,Hyderabad,Man,25,2025-10-25,,Active,1910000,Internal move,1,8,4.8,2026-09-30
+EMP0113,People,Recruiter,Bengaluru,Woman,28,2022-04-08,,Active,660000,Employee referral,2,39,2.7,2026-09-30
+EMP0114,Operations,Team Lead,Gurugram,Man,38,2024-09-05,2025-07-11,Terminated,710000,Agency,4,26,2.6,2026-09-30
+EMP0115,Technology,Software Engineer,Hyderabad,Woman,53,2024-01-22,,Active,510000,Internal move,12,28,3.7,2026-09-30
+EMP0116,Finance,Accountant,Gurugram,Woman,36,2019-11-16,,Active,810000,Career site,1,30,2.8,2026-09-30
+EMP0117,Finance,Finance Manager,Hyderabad,Man,45,2023-10-27,,Active,1160000,Internal move,6,51,3.3,2026-09-30
+EMP0118,People,HR Business Partner,Pune,Man,51,2025-07-15,,Active,1230000,Employee referral,0,42,4.7,2026-09-30
+EMP0119,Customer Support,Support Associate,Bengaluru,Man,37,2021-08-04,2022-08-11,Terminated,2380000,Internal move,3,3,2.5,2026-09-30
+EMP0120,Finance,Payroll Analyst,Chennai,Man,31,2019-07-25,,Active,800000,Campus,0,17,4.6,2026-09-30
